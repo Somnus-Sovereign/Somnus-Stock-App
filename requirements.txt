@@ -1,4 +1,3 @@
-
 python-dotenv
 duckdb
 pandas
@@ -6,9 +5,11 @@ pyarrow
 numpy
 scikit-learn
 lightgbm
-xgboost
 statsmodels
-sentence-transformers
 click
 rich
 Jinja2
+yfinance
+plotly
+pytest
+pytest-cov
