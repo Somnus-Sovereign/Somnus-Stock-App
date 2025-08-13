@@ -10,6 +10,4 @@ click
 rich
 Jinja2
 yfinance
-plotly
-pytest
-pytest-cov
+
