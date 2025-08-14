@@ -10,4 +10,5 @@ click
 rich
 Jinja2
 yfinance
+pytest
 
